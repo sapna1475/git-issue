@@ -1,3 +1,3 @@
 # git-issue
-collaborator-pull request    
+collaborator-pull request
 pull request to main branch 
